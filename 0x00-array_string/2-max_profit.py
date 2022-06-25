@@ -1,4 +1,4 @@
-def maxProfitChecker(prices):
+def maxProfit(prices):
     if not prices:
         return 0
     heap = []
