@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def twoSum(nums, target):
+def twoSum(nums, target)
     dictOfNum = {}
     for i, value in enumerate(nums):
         diff = target - value
